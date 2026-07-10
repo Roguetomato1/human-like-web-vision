@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human-Like Web Vision"
+  short_description: "Observe webpages through rendered visuals and structure"
+  default_prompt: "Use $human-like-web-vision to open this webpage and explain what a person actually sees."
